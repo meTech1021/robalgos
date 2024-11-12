@@ -38,7 +38,7 @@ const Index = () => {
 
       <BigdataFunFacts/>
 
-      <Feedback/>
+      {/* <Feedback/> */}
 
       {/* <IndustriesWeServe/> */}
 
