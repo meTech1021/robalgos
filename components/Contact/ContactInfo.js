@@ -38,7 +38,7 @@ const ContactInfo = () => {
                 </div>
                 <h3>Call Here</h3>
                 <p>
-                  <a href="tel:+4402080495271">+44 020 8049 5271</a>
+                  <a href="tel:+442080495271">+44 2080495271</a>
                 </p>
               </div>
             </div>

@@ -118,7 +118,7 @@ const Footer = () => {
 
                   <li>
                     <Icon.PhoneCall />
-                    Phone: <a href="tel:+4402080495271">+44 020 8049 5271</a>
+                    Phone: <a href="tel:+442080495271">+44 2080495271</a>
                   </li>
                 </ul>
 

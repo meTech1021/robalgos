@@ -9,7 +9,7 @@ const Layout = ({ children }) => {
       <Head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <title>RobAlgos - Stunning algorithm Development Team</title>
+        <title>RobAlgos - Stunning algorithm Development Company</title>
       </Head>
 
       {children}
